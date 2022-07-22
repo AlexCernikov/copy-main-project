@@ -1,0 +1,12 @@
+$btn-color: #FF5A00;
+$brand-color: #231F20;
+
+
+%title-font{
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  color: $brand-color;
+}
